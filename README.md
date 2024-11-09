@@ -1,4 +1,5 @@
 ATM Simulator Machine
+
 This project is a Java-based ATM Simulator Machine that mimics the functionalities of a real-world ATM. The simulator offers a user-friendly interface where users can manage their accounts, perform transactions, and view account details. It includes essential ATM features along with additional functionalities to enhance the user experience.
 
 Features
